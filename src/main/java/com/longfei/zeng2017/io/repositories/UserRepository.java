@@ -1,4 +1,4 @@
-package com.longfei.zeng2017;
+package com.longfei.zeng2017.io.repositories;
 
 import com.longfei.zeng2017.io.entity.UserEntity;
 import org.springframework.data.repository.CrudRepository;
